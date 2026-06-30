@@ -6,11 +6,17 @@
 
 ---
 
-## 💜 About Me
+## 👋 Assalamu Alaikum, I'm Abdullah Al Maruf
+
+An enthusiastic Computer Science & Engineering graduate majoring in **Network & Communications**, focused on **Network Engineering, Cybersecurity, and System Design**. I combine a solid foundation in networking protocols with hands-on experience across software, IoT, and telemedicine platforms. Currently pursuing **CCNA** through Cisco NetAcad and expanding my skills in **network security, CRNs, and embedded systems** to grow into a skilled Network & Security professional.
+
+---
+
+## 🧑‍💻 About Me
 
 | | |
 |---|---|
-| Hi! I'm **AB Maruf**, a Backend Engineer & Network Architect who lives at the crossroads of **scalable systems, cybersecurity, and network engineering**.<br><br>I love building systems that are **not just functional, but genuinely intelligent and secure**.<br><br>🚀 Working on **scalable backend systems & network architectures**<br>🔐 Deep interest in **cybersecurity, penetration testing & network design**<br>📡 Currently exploring **CCNA, GNS3, Cognitive Radio Networks**<br>💻 Talk to me about **Java, Spring Boot, REST APIs, System Design**<br>🌱 Building **production-grade systems** that handle complexity with elegance | ![Developer](./profile.gif) |
+| - 🎓 **B.Sc. in CSE (Network Major)** from United International University, Dhaka (2025).<br><br>- 🌐 Passionate about **Network Engineering, Cybersecurity, and System Reliability**, with interests in **Network Security & Defense**, **Cognitive Radio Networks**, and **IoT & Embedded Systems**.<br><br>- 🧪 Experienced with **embedded projects, full-stack web platforms, telemedicine systems, and API testing**, turning academic concepts into practical solutions.<br><br>- 📚 Currently **pursuing CCNA (Cisco NetAcad)** and certified in **Introduction to Cybersecurity (Cisco)**.<br><br>- 🔍 Always exploring new tools, reading technical papers, and experimenting with simulations (Omnet++, NS2/NS3, Packet Tracer) to deepen my understanding of modern networks. | ![Developer](./profile.gif) |
 
 ---
 
@@ -27,67 +33,117 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛡️ Core Competencies
 
-<div align="center">
+### 🔌 Network Engineering & Protocols
+- TCP/IP and OSI models
+- IPv4 addressing and subnetting
+- Routing fundamentals (Static & Default Routes)
+- NAT and ACL configuration
+- VLANs and Port-Channel concepts
 
-### 🏷️ Languages
+### 🔐 Cybersecurity Fundamentals
+- Cryptography fundamentals and challenge–response mechanisms
+- Digital signatures and certificate-based authentication
+- IPsec (Internet Protocol Security)
+- TLS (Transport Layer Security)
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### 🚀 Backend & APIs
-
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)](https://restfulapi.net)
-[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-[![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat-square)](https://en.wikipedia.org/wiki/Java_Database_Connectivity)
-
-### 🎨 Frontend
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-
-### 🗄️ Databases
-
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-### 🔒 Security & Networking
-
-[![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-[![GNS3](https://img.shields.io/badge/GNS3-0084FF?style=flat-square)](https://www.gns3.com)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
-
-### 🛠️ Tools
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
-
-</div>
+### 🛠️ Tools & Technologies
+- **Simulation & Networking:** Omnet++, NS2/NS3, Cisco Packet Tracer
+- **Programming:** Java, C, C++, Python
+- **Web & Databases:** SQL, React, Node.js, XAMPP, Firebase
+- **Hardware & IoT:** ESP32, Arduino, line-following robots
+- **Design & Collaboration:** Figma, Canva, Git, MS Word, Excel, PowerPoint
 
 ---
 
-## 🏗️ Featured Projects
+## 🎓 Courses & Certifications
 
-<div align="center">
+- 📡 **CCNA — Cisco NetAcad (ongoing)**  
+  Completed Module 1: *Introduction to Networks*.
+- 🔐 **Introduction to Cybersecurity — Cisco Certified**  
+  Gained foundational knowledge of security concepts, threats, and defense strategies.
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Neki](https://github.com/ABMaruf/Neki-an-islamic-App-)** | Islamic app with Quran, Hadith, Duas | Java • Spring Boot • MySQL |
-| **[ERMS](https://github.com/ABMaruf/Emergency-Rescue-Management-System-ERMS-)** | Emergency rescue coordination platform | Spring Boot • WebSocket • MySQL |
-| **[Team Management](https://github.com/ABMaruf/Team-and-Task-Management-System)** | Project & task management system | Spring Boot • MySQL |
-| **[Digital Healthcare](https://github.com/ABMaruf/Digital-Health-Care-System)** | Healthcare management platform | Spring Boot • MySQL |
-| **[Ansar](https://github.com/ABMaruf/ansar)** | Desktop AI assistant | Python • LLM APIs |
+---
 
-</div>
+## 🌍 Languages
+
+- 🇧🇩 **Bengali:** Native
+- 🇬🇧 **English:** Working proficiency
+- 🕌 **Arabic:** Elementary understanding
+
+---
+
+## 📌 Projects
+
+### Autonomous Shortest-Path Line-Follower Robot
+**Tech:** ESP32, Motor drivers, IR sensors, Embedded C  
+Designed a robot that **maps complete routes and computes optimal shortest paths autonomously**. Implemented real-time navigation using **ESP32**, motor control, and sensor integration.
+
+➡️ [Repository Link](https://github.com/ABMaruf/line-follower-robot)
+
+---
+
+### NEKI — Islamic Community & Learning Platform
+**Tech:** Java, React, Firebase, Figma  
+Built a platform for **Quran/Hadith reading, Arabic learning, prayer times, and event alerts**. Implemented **gamified achievements** and designed a modern UI in Figma with a **Firebase cloud backend**.
+
+➡️ [Repository Link](https://github.com/ABMaruf/Neki-an-islamic-App-)
+
+---
+
+### Digital Healthcare System — Telemedicine Platform
+**Tech:** Jitsi, Java, Firebase, SMS API  
+Developed a telemedicine system for **rural patients**, with separate **doctor and patient dashboards**. Added features for **appointment scheduling, e-prescriptions, and automated SMS/video link notifications**.
+
+➡️ [Repository Link](https://github.com/ABMaruf/Digital-Health-Care-System)
+
+---
+
+### API & System Testing — Software Quality Assurance
+**Tech:** Postman, black-box & white-box testing  
+Conducted **unit and system-level REST API testing**. Applied both **black-box and white-box** strategies to validate endpoints and system behavior.
+
+---
+
+### ERMS — Emergency Rescue Management System
+**Tech:** Spring Boot, MySQL, WebSocket  
+Real-time platform for **incident reporting and emergency response coordination** with live chat and volunteer coordination.
+
+➡️ [Repository Link](https://github.com/ABMaruf/Emergency-Rescue-Management-System-ERMS-)
+
+---
+
+### Ansar — Desktop AI Assistant
+**Tech:** Python, Speech Recognition, LLM APIs  
+Desktop AI assistant capable of **voice interaction, code generation, and multi-modal responses**.
+
+➡️ [Repository Link](https://github.com/ABMaruf/ansar)
+
+---
+
+### Team and Task Management System
+**Tech:** Spring Boot, MySQL  
+Complete project collaboration platform for **team management, task tracking, and project organization**.
+
+➡️ [Repository Link](https://github.com/ABMaruf/Team-and-Task-Management-System)
+
+---
+
+## 📚 Research
+
+### Trust-Aware Spectrum Management in Cluster-Based CRNs (TSM-CRN)
+**Status:** Independent research, manuscript in preparation (2026)  
+Designing a **trust computation and certificate-based authentication framework** for cognitive radio network clusters. Simulating **cooperative spectrum sensing** using **Omnet++, Python, and NS3** to evaluate performance and security.
+
+---
+
+## ❤️ Interests
+
+- Network Security & Defense
+- Cognitive Radio Research and spectrum management
+- IoT & Embedded Systems
+- Building practical solutions for healthcare and Islamic community platforms
 
 ---
 
