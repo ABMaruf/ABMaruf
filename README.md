@@ -77,25 +77,26 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 🎓 Courses & Certifications
 
-### 📡 CCNA — Cisco NetAcad (Pursuing)
+<div align="center">
 
-**CCNA consists of 3 modules:**
+### 📡 CCNA — Cisco NetAcad
 
-#### Module 1: Introduction to Networks ✅
-![Certificate](./certificate_introduction%20to%20networks%20CCNA.png)
+![CCNA Module 1](./certificate_introduction%20to%20networks%20CCNA.png)
+![CCNA Module 2](./certificate_CCNA_Switching%2Crouting%20and%20wireless%20essentials.png)
 
-#### Module 2: Switching, Routing and Wireless Essentials ✅
-![Certificate](./certificate_CCNA_Switching%2Crouting%20and%20wireless%20essentials.png)
-
-#### Module 3: Enterprise, Security & Automation 🔄 (Ongoing)
-Currently pursuing this final module to complete CCNA certification.
+![Module 1](https://img.shields.io/badge/Module%201%3A%20Introduction%20to%20Networks-✅-4A90E2?style=flat)
+![Module 2](https://img.shields.io/badge/Module%202%3A%20Switching%2C%20Routing%20%26%20Wireless-✅-4A90E2?style=flat)
+![Module 3](https://img.shields.io/badge/Module%203%3A%20Enterprise%2C%20Security%20%26%20Automation-🔄%20Ongoing-FFB81C?style=flat)
 
 ---
 
-### 🔐 Introduction to Cybersecurity — Cisco Certified ✅
-![Certificate](./certificate_introduction%20to%20cybersecurity.png)
+### 🔐 Introduction to Cybersecurity
 
-Gained foundational knowledge of security concepts, threats, and defense strategies.
+![Cybersecurity Cert](./certificate_introduction%20to%20cybersecurity.png)
+
+![Cybersecurity](https://img.shields.io/badge/Cisco%20Certified-✅-FF6B6B?style=flat)
+
+</div>
 
 ---
 
