@@ -8,9 +8,16 @@
 
 ## 👋 Abdullah Al Maruf
 
-| | |
-|---|---|
-| <img src="./greetings.gif" width="300" height="250" alt="Greetings" style="border-radius: 20px;"/> | ![Arabic Greeting](./arabic-greeting.svg) |
+<div align="center">
+
+<table>
+<tr>
+<td><img src="./greetings.gif" width="300" height="250" alt="Greetings"/></td>
+<td><img src="./arabic-greeting.svg" width="400" height="300" alt="Arabic Greeting"/></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
