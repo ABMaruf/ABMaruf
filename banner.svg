@@ -1,53 +1,158 @@
-<svg width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="280" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a1428;stop-opacity:1" />
-      <stop offset="25%" style="stop-color:#1a1f5e;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a3a52;stop-opacity:1" />
-      <stop offset="75%" style="stop-color:#2d1a52;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d2d3a;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#0a1e3e;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#1a2d5e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2a1f4e;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#1a3a5e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d2b4a;stop-opacity:1" />
     </linearGradient>
 
     <style>
-      @keyframes pulse {
-        0%, 100% { r: 4; opacity: 0.7; }
-        50% { r: 6; opacity: 1; }
+      @keyframes titleGlow {
+        0% { opacity: 0; filter: drop-shadow(0 0 2px rgba(0, 255, 200, 0.2)); }
+        60% { opacity: 1; filter: drop-shadow(0 0 12px rgba(0, 255, 200, 0.8)); }
+        100% { opacity: 1; filter: drop-shadow(0 0 8px rgba(0, 255, 200, 0.6)); }
       }
-      @keyframes glow {
-        0%, 100% { stroke-width: 1; stroke-opacity: 0.3; }
-        50% { stroke-width: 1.5; stroke-opacity: 0.6; }
+      @keyframes subtitleGlow {
+        0% { opacity: 0; filter: drop-shadow(0 0 2px rgba(100, 220, 255, 0.2)); }
+        70% { opacity: 1; filter: drop-shadow(0 0 10px rgba(100, 220, 255, 0.7)); }
+        100% { opacity: 1; filter: drop-shadow(0 0 6px rgba(100, 220, 255, 0.5)); }
       }
-      .node { animation: pulse 2.5s infinite; fill: #00ffcc; filter: drop-shadow(0 0 6px rgba(0, 255, 204, 0.7)); }
-      .line { animation: glow 3s infinite; stroke: rgba(0, 200, 200, 0.5); }
+      @keyframes pulseNode {
+        0%, 100% { r: 6; fill-opacity: 0.9; }
+        50% { r: 8; fill-opacity: 1; }
+      }
+      @keyframes flowLine {
+        0% { stroke-dashoffset: 30; }
+        100% { stroke-dashoffset: 0; }
+      }
+
+      .node { animation: pulseNode 2s ease-in-out infinite; fill: #00ffcc; }
+      .line { stroke: rgba(0, 220, 220, 0.4); stroke-dasharray: 15, 15; animation: flowLine 5s linear infinite; }
+      .title { animation: titleGlow 3.5s ease-out forwards; }
+      .subtitle { animation: subtitleGlow 4.5s ease-out forwards; }
     </style>
   </defs>
 
-  <!-- Background with dark gradient -->
-  <rect width="1200" height="250" fill="url(#bgGradient)"/>
+  <rect width="1200" height="280" fill="url(#bgGradient)"/>
 
-  <!-- Network lines -->
-  <line x1="80" y1="60" x2="250" y2="120" class="line" stroke-width="1"/>
-  <line x1="250" y1="120" x2="450" y2="80" class="line" stroke-width="1"/>
-  <line x1="450" y1="80" x2="600" y2="150" class="line" stroke-width="1"/>
-  <line x1="600" y1="150" x2="800" y2="100" class="line" stroke-width="1"/>
-  <line x1="800" y1="100" x2="950" y2="160" class="line" stroke-width="1"/>
-  <line x1="950" y1="160" x2="1100" y2="110" class="line" stroke-width="1"/>
+  <!-- Cluster 1 left: nodes move together -->
+  <!-- Edge 1a: node1 to node2 -->
+  <line class="line" stroke-width="1.2">
+    <animate attributeName="x1" values="150;200;180;120;150" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y1" values="100;140;70;90;100" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="350;380;320;320;350" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="120;90;150;140;120" dur="8s" repeatCount="indefinite"/>
+  </line>
 
-  <!-- Network nodes -->
-  <circle cx="80" cy="60" r="4" class="node" style="animation-delay: 0s"/>
-  <circle cx="250" cy="120" r="4" class="node" style="animation-delay: 0.3s"/>
-  <circle cx="450" cy="80" r="4" class="node" style="animation-delay: 0.6s"/>
-  <circle cx="600" cy="150" r="4" class="node" style="animation-delay: 0.9s"/>
-  <circle cx="800" cy="100" r="4" class="node" style="animation-delay: 1.2s"/>
-  <circle cx="950" cy="160" r="4" class="node" style="animation-delay: 1.5s"/>
-  <circle cx="1100" cy="110" r="4" class="node" style="animation-delay: 1.8s"/>
+  <!-- Edge 1b: node2 to node3 -->
+  <line class="line" stroke-width="1.2">
+    <animate attributeName="x1" values="350;380;320;320;350" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y1" values="120;90;150;140;120" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="250;290;200;200;250" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="70;110;90;70;70" dur="8s" repeatCount="indefinite"/>
+  </line>
 
-  <!-- Main text -->
-  <text x="600" y="185" font-family="Arial, sans-serif" font-size="54" font-weight="bold" fill="white" text-anchor="middle" style="filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.8));">
+  <!-- Edge 1c: node3 to node1 (forms cluster) -->
+  <line class="line" stroke-width="0.9">
+    <animate attributeName="x1" values="250;290;200;200;250" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y1" values="70;110;90;70;70" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="150;200;180;120;150" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="100;140;70;90;100" dur="8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Cluster 2 middle -->
+  <!-- Edge 2a: node4 to node5 -->
+  <line class="line" stroke-width="1.2">
+    <animate attributeName="x1" values="550;600;520;480;550" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y1" values="90;140;60;100;90" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x2" values="700;750;720;680;700" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y2" values="140;100;160;120;140" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+  </line>
+
+  <!-- Edge 2b: node5 to node4 -->
+  <line class="line" stroke-width="0.9">
+    <animate attributeName="x1" values="700;750;720;680;700" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y1" values="140;100;160;120;140" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x2" values="550;600;520;480;550" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y2" values="90;140;60;100;90" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+  </line>
+
+  <!-- Cluster 3 right -->
+  <!-- Edge 3a: node6 to node7 -->
+  <line class="line" stroke-width="1.2">
+    <animate attributeName="x1" values="950;1000;920;880;950" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="y1" values="110;150;80;130;110" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="x2" values="1080;1120;1050;1070;1080" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="y2" values="160;120;150;90;160" dur="9s" repeatCount="indefinite" begin="1s"/>
+  </line>
+
+  <!-- Edge 3b: node7 to node6 -->
+  <line class="line" stroke-width="0.9">
+    <animate attributeName="x1" values="1080;1120;1050;1070;1080" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="y1" values="160;120;150;90;160" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="x2" values="950;1000;920;880;950" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="y2" values="110;150;80;130;110" dur="9s" repeatCount="indefinite" begin="1s"/>
+  </line>
+
+  <!-- Cross-cluster connections (lighter, slower) -->
+  <line class="line" stroke-width="0.7">
+    <animate attributeName="x1" values="350;380;320;320;350" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y1" values="120;90;150;140;120" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="550;600;520;480;550" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="90;140;60;100;90" dur="8s" repeatCount="indefinite"/>
+  </line>
+
+  <line class="line" stroke-width="0.7">
+    <animate attributeName="x1" values="700;750;720;680;700" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y1" values="140;100;160;120;140" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x2" values="950;1000;920;880;950" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y2" values="110;150;80;130;110" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+  </line>
+
+  <!-- Animated nodes -->
+  <!-- Cluster 1 nodes -->
+  <circle class="node">
+    <animate attributeName="cx" values="150;200;180;120;150" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;140;70;90;100" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node">
+    <animate attributeName="cx" values="350;380;320;320;350" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="120;90;150;140;120" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node">
+    <animate attributeName="cx" values="250;290;200;200;250" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;110;90;70;70" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Cluster 2 nodes -->
+  <circle class="node">
+    <animate attributeName="cx" values="550;600;520;480;550" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="cy" values="90;140;60;100;90" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle class="node">
+    <animate attributeName="cx" values="700;750;720;680;700" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="cy" values="140;100;160;120;140" dur="8.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+
+  <!-- Cluster 3 nodes -->
+  <circle class="node">
+    <animate attributeName="cx" values="950;1000;920;880;950" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="cy" values="110;150;80;130;110" dur="9s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle class="node">
+    <animate attributeName="cx" values="1080;1120;1050;1070;1080" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="cy" values="160;120;150;90;160" dur="9s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="600" y="215" font-family="'Courier New', monospace" font-size="56" font-weight="bold" fill="white" text-anchor="middle" class="title">
     AB MARUF
   </text>
 
-  <text x="600" y="230" font-family="Arial, sans-serif" font-size="16" fill="#00ffcc" text-anchor="middle" style="filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.8));">
+  <!-- Subtitle -->
+  <text x="600" y="260" font-family="'Courier New', monospace" font-size="17" fill="#64d8ff" text-anchor="middle" class="subtitle">
     Backend Engineer • Network Architect • Building Production Systems
   </text>
 </svg>
