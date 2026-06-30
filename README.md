@@ -1,6 +1,13 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); background-size: 300% 300%; animation: gradient 8s ease infinite; padding: 30px 20px; border-radius: 10px; margin-bottom: 20px;">
+  <style>
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
   
-  ![Header](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=AB+MARUF;Backend+Engineer+%26+Network+Architect;Building+Production+Systems;Security+First)
+  ![Header](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=AB+MARUF;Backend+Engineer+%26+Network+Architect;Building+Production+Systems;Security+First)
 
 </div>
 
