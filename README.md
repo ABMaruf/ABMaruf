@@ -113,57 +113,16 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 📌 Projects
 
-### Autonomous Shortest-Path Line-Follower Robot
-**Tech:** ESP32, Motor drivers, IR sensors, Embedded C  
-Designed a robot that **maps complete routes and computes optimal shortest paths autonomously**. Implemented real-time navigation using **ESP32**, motor control, and sensor integration.
+<div align="center">
 
-➡️ [Repository Link](https://github.com/ABMaruf/line-follower-robot)
+| | |
+|---|---|
+| **🤖 Autonomous Shortest-Path Line-Follower Robot**<br><br>Designed a robot that maps complete routes and computes optimal shortest paths autonomously. Implemented real-time navigation using ESP32, motor control, and sensor integration.<br><br>![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square) ![C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-00A8CC?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/line-follower-robot) | **🕌 NEKI — Islamic Community & Learning Platform**<br><br>Built a platform for Quran/Hadith reading, Arabic learning, prayer times, and event alerts. Implemented gamified achievements and designed a modern UI in Figma with Firebase cloud backend.<br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/Neki-an-islamic-App-) |
+| **🏥 Digital Healthcare System — Telemedicine Platform**<br><br>Developed a telemedicine system for rural patients with separate doctor and patient dashboards. Added features for appointment scheduling, e-prescriptions, and automated SMS/video link notifications.<br><br>![Jitsi](https://img.shields.io/badge/Jitsi-2166F3?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/Digital-Health-Care-System) | **🧪 API & System Testing — Software Quality Assurance**<br><br>Conducted unit and system-level REST API testing. Applied both black-box and white-box testing strategies to validate endpoints and system behavior comprehensively.<br><br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square) ![Testing](https://img.shields.io/badge/QA%20Testing-00A8CC?style=flat-square) ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square) |
+| **🚨 ERMS — Emergency Rescue Management System**<br><br>Real-time platform for incident reporting and emergency response coordination with live chat and volunteer coordination dashboard for rescuers and victims.<br><br>![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/Emergency-Rescue-Management-System-ERMS-) | **🤖 Ansar — Desktop AI Assistant**<br><br>Desktop AI assistant capable of voice interaction, code generation, and multi-modal responses. Integrated speech recognition and LLM APIs for intelligent task automation.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![AI](https://img.shields.io/badge/LLM%20APIs-FF6B6B?style=flat-square) ![Voice](https://img.shields.io/badge/Speech%20Recognition-00A8CC?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/ansar) |
+| **📋 Team and Task Management System**<br><br>Complete project collaboration platform for team management, task tracking, and project organization. Features real-time updates and team coordination tools.<br><br>![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square) ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square)<br><br>➡️ [Repository](https://github.com/ABMaruf/Team-and-Task-Management-System) | |
 
----
-
-### NEKI — Islamic Community & Learning Platform
-**Tech:** Java, React, Firebase, Figma  
-Built a platform for **Quran/Hadith reading, Arabic learning, prayer times, and event alerts**. Implemented **gamified achievements** and designed a modern UI in Figma with a **Firebase cloud backend**.
-
-➡️ [Repository Link](https://github.com/ABMaruf/Neki-an-islamic-App-)
-
----
-
-### Digital Healthcare System — Telemedicine Platform
-**Tech:** Jitsi, Java, Firebase, SMS API  
-Developed a telemedicine system for **rural patients**, with separate **doctor and patient dashboards**. Added features for **appointment scheduling, e-prescriptions, and automated SMS/video link notifications**.
-
-➡️ [Repository Link](https://github.com/ABMaruf/Digital-Health-Care-System)
-
----
-
-### API & System Testing — Software Quality Assurance
-**Tech:** Postman, black-box & white-box testing  
-Conducted **unit and system-level REST API testing**. Applied both **black-box and white-box** strategies to validate endpoints and system behavior.
-
----
-
-### ERMS — Emergency Rescue Management System
-**Tech:** Spring Boot, MySQL, WebSocket  
-Real-time platform for **incident reporting and emergency response coordination** with live chat and volunteer coordination.
-
-➡️ [Repository Link](https://github.com/ABMaruf/Emergency-Rescue-Management-System-ERMS-)
-
----
-
-### Ansar — Desktop AI Assistant
-**Tech:** Python, Speech Recognition, LLM APIs  
-Desktop AI assistant capable of **voice interaction, code generation, and multi-modal responses**.
-
-➡️ [Repository Link](https://github.com/ABMaruf/ansar)
-
----
-
-### Team and Task Management System
-**Tech:** Spring Boot, MySQL  
-Complete project collaboration platform for **team management, task tracking, and project organization**.
-
-➡️ [Repository Link](https://github.com/ABMaruf/Team-and-Task-Management-System)
+</div>
 
 ---
 
