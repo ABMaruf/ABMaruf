@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| # Welcome! 👋<br><br>🌙 **Assalamu Alaikum wa Rahmatullahi wa Barakatuh**<br><br>I'm a **Network Engineer** & **Cybersecurity Enthusiast**<br><br>Building scalable systems • Exploring networks • Securing the digital world<br><br>![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat) | ![Coding Vibe](./coding%20vibe.gif) |
+| # Welcome! 👋<br><br>🌙 **Assalamu Alaikum wa Rahmatullahi wa Barakatuh**<br><br>I'm a **Network Engineer** & **Cybersecurity Enthusiast**<br><br>Building scalable systems • Exploring networks • Securing the digital world<br><br>![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat) | ![3D Coding](./3d%20cool.gif) |
 
 ---
 
