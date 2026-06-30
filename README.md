@@ -128,18 +128,30 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 📚 Research
 
+<div align="center">
+
 ### Trust-Aware Spectrum Management in Cluster-Based CRNs (TSM-CRN)
-**Status:** Independent research, manuscript in preparation (2026)  
-Designing a **trust computation and certificate-based authentication framework** for cognitive radio network clusters. Simulating **cooperative spectrum sensing** using **Omnet++, Python, and NS3** to evaluate performance and security.
+
+**Status:** Independent research, manuscript in preparation (2026)
+
+Designing a **trust computation and certificate-based authentication framework** for cognitive radio network clusters. Simulating **cooperative spectrum sensing** to evaluate performance and security.
+
+![Omnet++](https://img.shields.io/badge/Omnet%2B%2B-4A90E2?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![NS3](https://img.shields.io/badge/NS3-0066CC?style=flat-square) ![CRN](https://img.shields.io/badge/CRN%20Research-FF6B6B?style=flat-square)
+
+</div>
 
 ---
 
 ## ❤️ Interests
 
-- Network Security & Defense
-- Cognitive Radio Research and spectrum management
-- IoT & Embedded Systems
-- Building practical solutions for healthcare and Islamic community platforms
+<div align="center">
+
+![Network Security](https://img.shields.io/badge/Network%20Security%20%26%20Defense-FF6B6B?style=for-the-badge)
+![Cognitive Radio](https://img.shields.io/badge/Cognitive%20Radio%20Research-0066CC?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT%20%26%20Embedded%20Systems-00A8CC?style=for-the-badge)
+![Healthcare Tech](https://img.shields.io/badge/Healthcare%20%26%20Telemedicine-4A90E2?style=for-the-badge)
+
+</div>
 
 ---
 
