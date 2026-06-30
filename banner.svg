@@ -1,0 +1,53 @@
+<svg width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1428;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#1a1f5e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a3a52;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#2d1a52;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d2d3a;stop-opacity:1" />
+    </linearGradient>
+
+    <style>
+      @keyframes pulse {
+        0%, 100% { r: 4; opacity: 0.7; }
+        50% { r: 6; opacity: 1; }
+      }
+      @keyframes glow {
+        0%, 100% { stroke-width: 1; stroke-opacity: 0.3; }
+        50% { stroke-width: 1.5; stroke-opacity: 0.6; }
+      }
+      .node { animation: pulse 2.5s infinite; fill: #00ffcc; filter: drop-shadow(0 0 6px rgba(0, 255, 204, 0.7)); }
+      .line { animation: glow 3s infinite; stroke: rgba(0, 200, 200, 0.5); }
+    </style>
+  </defs>
+
+  <!-- Background with dark gradient -->
+  <rect width="1200" height="250" fill="url(#bgGradient)"/>
+
+  <!-- Network lines -->
+  <line x1="80" y1="60" x2="250" y2="120" class="line" stroke-width="1"/>
+  <line x1="250" y1="120" x2="450" y2="80" class="line" stroke-width="1"/>
+  <line x1="450" y1="80" x2="600" y2="150" class="line" stroke-width="1"/>
+  <line x1="600" y1="150" x2="800" y2="100" class="line" stroke-width="1"/>
+  <line x1="800" y1="100" x2="950" y2="160" class="line" stroke-width="1"/>
+  <line x1="950" y1="160" x2="1100" y2="110" class="line" stroke-width="1"/>
+
+  <!-- Network nodes -->
+  <circle cx="80" cy="60" r="4" class="node" style="animation-delay: 0s"/>
+  <circle cx="250" cy="120" r="4" class="node" style="animation-delay: 0.3s"/>
+  <circle cx="450" cy="80" r="4" class="node" style="animation-delay: 0.6s"/>
+  <circle cx="600" cy="150" r="4" class="node" style="animation-delay: 0.9s"/>
+  <circle cx="800" cy="100" r="4" class="node" style="animation-delay: 1.2s"/>
+  <circle cx="950" cy="160" r="4" class="node" style="animation-delay: 1.5s"/>
+  <circle cx="1100" cy="110" r="4" class="node" style="animation-delay: 1.8s"/>
+
+  <!-- Main text -->
+  <text x="600" y="185" font-family="Arial, sans-serif" font-size="54" font-weight="bold" fill="white" text-anchor="middle" style="filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.8));">
+    AB MARUF
+  </text>
+
+  <text x="600" y="230" font-family="Arial, sans-serif" font-size="16" fill="#00ffcc" text-anchor="middle" style="filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.8));">
+    Backend Engineer • Network Architect • Building Production Systems
+  </text>
+</svg>

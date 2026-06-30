@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=AB+MARUF;Backend+Engineer+%26+Network+Architect;Building+Production+Systems;Security+First)
+![Banner](./banner.svg)
 
 </div>
 
