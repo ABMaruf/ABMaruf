@@ -81,8 +81,8 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ### 📡 CCNA — Cisco NetAcad
 
-![CCNA Module 1](./certificate_introduction%20to%20networks%20CCNA.png)
-![CCNA Module 2](./certificate_CCNA_Switching%2Crouting%20and%20wireless%20essentials.png)
+<img src="./certificate_introduction%20to%20networks%20CCNA.png" width="160" height="120" alt="CCNA Module 1"/>
+<img src="./certificate_CCNA_Switching%2Crouting%20and%20wireless%20essentials.png" width="160" height="120" alt="CCNA Module 2"/>
 
 ![Module 1](https://img.shields.io/badge/Module%201%3A%20Introduction%20to%20Networks-✅-4A90E2?style=flat)
 ![Module 2](https://img.shields.io/badge/Module%202%3A%20Switching%2C%20Routing%20%26%20Wireless-✅-4A90E2?style=flat)
@@ -92,7 +92,7 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ### 🔐 Introduction to Cybersecurity
 
-![Cybersecurity Cert](./certificate_introduction%20to%20cybersecurity.png)
+<img src="./certificate_introduction%20to%20cybersecurity.png" width="160" height="120" alt="Cybersecurity Certificate"/>
 
 ![Cybersecurity](https://img.shields.io/badge/Cisco%20Certified-✅-FF6B6B?style=flat)
 
