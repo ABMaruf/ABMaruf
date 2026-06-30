@@ -6,15 +6,17 @@
 
 ---
 
+<div align="center" style="animation: fadeInDown 1s ease-out;">
+
 ## ❤️ About Me
 
-<div align="center">
-
-**Hi! I'm AB Maruf**, a Backend Engineer & Network Architect who has recently completed my **Bachelor's in CSE**. I specialize in building scalable backend systems, exploring cybersecurity, and designing robust network architectures.
+**Hi! I'm AB Maruf**, a CSE Graduate with a focus on **Backend Engineering & Network Architecture**. I specialize in building scalable systems, exploring cybersecurity, and designing robust network infrastructures.
 
 I love creating systems that are **not just functional, but genuinely intelligent and secure**.
 
-<table>
+</div>
+
+<table align="center" style="animation: fadeInUp 1.2s ease-out;">
 <tr>
 <td width="50%">
 
@@ -26,15 +28,13 @@ I love creating systems that are **not just functional, but genuinely intelligen
 🌱 **Always Learning** — AI/ML, Data Structures, System Design
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![Developer](https://img.icons8.com/color/384/000000/backend-development.png)
+![Developer](https://media.giphy.com/media/L1R1tvI9svkIWoLvat/giphy.gif)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
