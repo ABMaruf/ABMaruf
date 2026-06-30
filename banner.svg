@@ -11,8 +11,13 @@
     <style>
       @keyframes titleGlow {
         0% { opacity: 0; filter: drop-shadow(0 0 2px rgba(0, 255, 200, 0.2)); }
-        60% { opacity: 1; filter: drop-shadow(0 0 12px rgba(0, 255, 200, 0.8)); }
-        100% { opacity: 1; filter: drop-shadow(0 0 8px rgba(0, 255, 200, 0.6)); }
+        50% { opacity: 0.7; }
+        100% { opacity: 1; filter: drop-shadow(0 0 15px rgba(0, 255, 200, 0.9)); }
+      }
+      @keyframes subtitleGlow {
+        0% { opacity: 0; filter: drop-shadow(0 0 2px rgba(100, 220, 255, 0.2)); }
+        60% { opacity: 0.8; }
+        100% { opacity: 1; filter: drop-shadow(0 0 12px rgba(100, 220, 255, 0.7)); }
       }
       @keyframes pulseNode {
         0%, 100% { r: 6; fill-opacity: 0.9; }
@@ -30,13 +35,14 @@
       .node { animation: pulseNode 2s ease-in-out infinite; fill: #00ffcc; }
       .line { stroke: rgba(0, 220, 220, 0.4); stroke-dasharray: 15, 15; animation: flowLine 5s linear infinite; }
       .title { animation: titleGlow 3.5s ease-out forwards; }
+      .subtitle { animation: subtitleGlow 4.5s ease-out forwards; }
       .wave { animation: waveMotion 3s linear infinite; }
     </style>
   </defs>
 
   <rect width="1200" height="280" fill="url(#bgGradient)"/>
 
-  <!-- Network edges -->
+  <!-- Network edges with animations -->
   <line class="line" stroke-width="1.2">
     <animate attributeName="x1" values="150;200;180;120;150" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="y1" values="100;140;70;90;100" dur="8s" repeatCount="indefinite"/>
@@ -132,7 +138,16 @@
     <animate attributeName="cy" values="160;120;150;90;160" dur="9s" repeatCount="indefinite" begin="1s"/>
   </circle>
 
-  <!-- Animated wave curve at bottom -->
+  <!-- Animated name and title -->
+  <text x="600" y="160" font-family="'Courier New', monospace" font-size="56" font-weight="bold" fill="white" text-anchor="middle" class="title">
+    AB MARUF
+  </text>
+
+  <text x="600" y="210" font-family="'Courier New', monospace" font-size="22" fill="#00ffcc" text-anchor="middle" class="subtitle">
+    Backend Engineer • Network Architect • Building Production Systems
+  </text>
+
+  <!-- Animated wave curves at bottom -->
   <path class="wave" d="M0,250 Q150,230 300,250 T600,250 T900,250 T1200,250 L1200,280 L0,280 Z" fill="rgba(0,255,204,0.15)" stroke="none"/>
   <path class="wave" d="M0,260 Q150,240 300,260 T600,260 T900,260 T1200,260 L1200,280 L0,280 Z" fill="rgba(0,200,255,0.1)" stroke="none" style="animation-delay: 0.5s"/>
 </svg>
