@@ -39,7 +39,7 @@ Securing the digital world
 
 | | |
 |---|---|
-| - 🎓 **B.Sc. in CSE (Network Major)** from United International University, Dhaka (2025).<br><br>- 🌐 Passionate about **Network Engineering, Cybersecurity, and System Reliability**, with interests in **Network Security & Defense**, **Cognitive Radio Networks**, and **IoT & Embedded Systems**.<br><br>- 🧪 Experienced with **embedded projects, full-stack web platforms, telemedicine systems, and API testing**, turning academic concepts into practical solutions.<br><br>- 📚 Currently **pursuing CCNA (Cisco NetAcad)** and certified in **Introduction to Cybersecurity (Cisco)**.<br><br>- 🔍 Always exploring new tools, reading technical papers, and experimenting with simulations (Omnet++, NS2/NS3, Packet Tracer) to deepen my understanding of modern networks. | ![Developer](./profile.gif) |
+| - 🌐 **Network Engineering** • **Cybersecurity** • **System Reliability**<br><br>- 🧪 **Embedded Systems** • **Full-Stack Development** • **Telemedicine** • **API Testing**<br><br>- 📚 **CCNA** (In Progress) • **Cisco Cybersecurity** (Certified)<br><br>- 🔍 **Omnet++** • **NS3** • **Packet Tracer** • Research & Simulations | ![Developer](./profile.gif) |
 
 ---
 
