@@ -28,7 +28,7 @@ I love creating systems that are **not just functional, but genuinely intelligen
 </td>
 <td width="50%">
 
-![Student](./student.svg)
+![Developer](./profile.gif)
 
 </td>
 </tr>
