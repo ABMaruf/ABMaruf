@@ -6,11 +6,11 @@
 
 ---
 
-## 👋 Assalamu Alaikum, I'm Abdullah Al Maruf
+## 👋 I'm Abdullah Al Maruf
 
 | | |
 |---|---|
-| # Welcome! 👋<br><br>🌙 **Assalamu Alaikum wa Rahmatullahi wa Barakatuh**<br><br>I'm a **Network Engineer** & **Cybersecurity Enthusiast**<br><br>Building scalable systems • Exploring networks • Securing the digital world<br><br>![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat) | ![3D Coding](./3d%20cool.gif) |
+| # Welcome! 👋<br><br>![Arabic Greeting](./arabic-greeting.svg)<br><br>I'm a **Network & Cybersecurity Enthusiast**<br><br>Building scalable systems • Exploring networks • Securing the digital world<br><br>![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat) | ![3D Coding](./3d%20cool.gif) |
 
 ---
 

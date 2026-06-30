@@ -1,0 +1,25 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <style>
+      @keyframes fadeInSlide {
+        0% { opacity: 0; transform: translateX(-30px); }
+        100% { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 5px rgba(0, 255, 204, 0.5)); }
+        50% { filter: drop-shadow(0 0 15px rgba(0, 255, 204, 0.9)); }
+      }
+      .arabic-text { animation: fadeInSlide 2s ease-out forwards, glow 3s ease-in-out infinite 2s; }
+    </style>
+  </defs>
+
+  <!-- Animated Arabic greeting: السلام عليكم -->
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" class="arabic-text">
+    السلام عليكم
+  </text>
+
+  <!-- Welcome text below -->
+  <text x="200" y="140" font-family="'Courier New', monospace" font-size="16" fill="#00ffcc" text-anchor="middle" class="arabic-text" style="animation-delay: 0.5s">
+    Peace be upon you
+  </text>
+</svg>
