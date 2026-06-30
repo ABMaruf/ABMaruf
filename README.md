@@ -91,28 +91,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABMaruf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABMaruf&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMaruf&layout=compact&theme=tokyonight&count_private=true&cache_seconds=3600)
-
-</div>
-
----
-
 <div align="center">
 
 **Building scalable systems. Always learning. Always shipping.** 🚀
