@@ -77,10 +77,25 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 🎓 Courses & Certifications
 
-- 📡 **CCNA — Cisco NetAcad (ongoing)**  
-  Completed Module 1: *Introduction to Networks*.
-- 🔐 **Introduction to Cybersecurity — Cisco Certified**  
-  Gained foundational knowledge of security concepts, threats, and defense strategies.
+### 📡 CCNA — Cisco NetAcad (Pursuing)
+
+**CCNA consists of 3 modules:**
+
+#### Module 1: Introduction to Networks ✅
+![Certificate](./certificate_introduction%20to%20networks%20CCNA.png)
+
+#### Module 2: Switching, Routing and Wireless Essentials ✅
+![Certificate](./certificate_CCNA_Switching%2Crouting%20and%20wireless%20essentials.png)
+
+#### Module 3: Enterprise, Security & Automation 🔄 (Ongoing)
+Currently pursuing this final module to complete CCNA certification.
+
+---
+
+### 🔐 Introduction to Cybersecurity — Cisco Certified ✅
+![Certificate](./certificate_introduction%20to%20cybersecurity.png)
+
+Gained foundational knowledge of security concepts, threats, and defense strategies.
 
 ---
 
