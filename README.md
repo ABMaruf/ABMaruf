@@ -95,19 +95,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABMaruf&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABMaruf&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ABMaruf&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMaruf&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMaruf&layout=compact&theme=tokyonight&hide_border=false&count_private=true)
 
 </div>
 
