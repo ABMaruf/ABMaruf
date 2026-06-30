@@ -103,6 +103,8 @@
 
 <div align="center">
 
+![Made by AB Maruf](./footer.svg)
+
 **Building scalable systems. Always learning. Always shipping.** 🚀
 
 </div>

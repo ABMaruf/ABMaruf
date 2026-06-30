@@ -1,0 +1,51 @@
+<svg width="1200" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1e3e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a3a5e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d2b4a;stop-opacity:1" />
+    </linearGradient>
+
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-5px); }
+      }
+      @keyframes shimmer {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+      }
+
+      .dot { animation: pulse 2s ease-in-out infinite; fill: #00ffcc; }
+      .text { animation: float 3s ease-in-out infinite; }
+      .shimmer-line { animation: shimmer 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="150" fill="url(#footerGradient)"/>
+
+  <!-- Animated dots -->
+  <circle cx="100" cy="75" r="4" class="dot" style="animation-delay: 0s"/>
+  <circle cx="1100" cy="75" r="4" class="dot" style="animation-delay: 0.5s"/>
+  <circle cx="600" cy="30" r="3" class="dot" style="animation-delay: 1s"/>
+  <circle cx="600" cy="120" r="3" class="dot" style="animation-delay: 1.5s"/>
+
+  <!-- Shimmer effect line -->
+  <line x1="0" y1="75" x2="1200" y2="75" stroke="rgba(0, 255, 204, 0.1)" stroke-width="1"/>
+  <line x1="0" y1="75" x2="1200" y2="75" stroke="rgba(0, 255, 204, 0.3)" stroke-width="1" class="shimmer-line" opacity="0.5"/>
+
+  <!-- Main text -->
+  <text x="600" y="85" font-family="'Courier New', monospace" font-size="32" font-weight="bold" fill="white" text-anchor="middle" class="text">
+    Made by AB Maruf
+  </text>
+
+  <!-- Subtext -->
+  <text x="600" y="115" font-family="'Courier New', monospace" font-size="14" fill="#00ffcc" text-anchor="middle" class="text" style="animation-delay: 0.5s">
+    Building scalable systems • Always learning • Always shipping
+  </text>
+</svg>
