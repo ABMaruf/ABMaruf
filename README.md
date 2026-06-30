@@ -1,197 +1,153 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum+%F0%9F%99%8F;I'm+AB+Maruf;Network+Major+%7C+Full-Stack+Developer;Building+Neki+%2C+ERMS+%26+Ansar"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
+  
+  ![Header](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=AB+MARUF;Backend+Engineer+%26+Network+Architect;Building+Production+Systems;Security+First)
+
+</div>
 
 ---
 
-<h1 align="center">AB Maruf</h1>
+## 🚀 About Me
 
-<h3 align="center">
-🎓 Final-year CSE (Network Major) | 💻 Full-Stack Developer | 🔐 Security Enthusiast
-</h3>
+I'm a **final-year CSE student** with a focus on **network engineering and full-stack backend development**. I build scalable systems, dive deep into **cybersecurity**, and explore **network architecture** and cognitive radio networks. Currently shipping **Neki** (Islamic app), **ERMS** (emergency management), and **Ansar** (AI assistant).
 
-<p align="center">
-  <strong>Dhaka, Bangladesh</strong> | Building innovative solutions in Islamic tech, emergency management, and AI
-</p>
+**Location:** Dhaka, Bangladesh | **Focus:** Backend Systems, APIs, Network Engineering
 
 ---
 
-## 👨‍💻 About Me
+## 📡 Connect With Me
 
-- 🎓 Final-year **CSE student (Network Major)** from Dhaka, Bangladesh
-- 💻 Full-stack developer passionate about **backend systems, APIs, and network engineering**
-- 🔐 Deeply interested in **cybersecurity, penetration testing, and network architecture**
-- 📡 Exploring **Cognitive Radio Networks** and simulation-based research
-- 🚀 Currently working on **Neki (Islamic app)**, **ERMS (Emergency Rescue Management System)**, and **Ansar (Desktop AI assistant)**
-- 🌱 Always learning and collaborating on open-source projects
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almaruc170600@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abmaruf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABMaruf)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=for-the-badge)
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### Databases & Data
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Dev Environment & IDEs
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-</p>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNS3-0084FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+### Security & Networking
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0084FF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+## 🏗️ Featured Projects
 
 ### Neki – Islamic Application
-Modern Islamic application with **Quran, Hadith, Dua** features and a clean, user-friendly interface.  
-**Tech Stack:** Java • Spring Boot • MySQL • REST APIs  
-**Key Features:** 
-- Complete Quran text with translations
-- Authentic Hadith collection
-- Daily Dua recommendations
-- User preference management
+Modern Islamic application with Quran, Hadith, and Dua features.
+- **Tech:** Java • Spring Boot • MySQL • REST APIs
+- **Features:** Quran text with translations • Authentic Hadith • Daily Duas • User management
 
-➡️ **[View Repository](https://github.com/ABMaruf/neki)**
+🔗 [Repository](https://github.com/ABMaruf/Neki-an-islamic-App-) | [More Info](#)
 
 ---
 
 ### ERMS – Emergency Rescue Management System
-Comprehensive platform for **incident reporting, volunteer coordination, and real-time communication** between victims and emergency responders.  
-**Tech Stack:** Spring Boot • MySQL • WebSocket • REST APIs • Frontend (HTML/CSS/JS)  
-**Key Features:**
-- Real-time incident reporting
-- Volunteer coordination dashboard
-- Live chat system (WebSocket)
-- Location-based rescue mapping
-- Emergency notification system
+Real-time platform for incident reporting and emergency response coordination.
+- **Tech:** Spring Boot • MySQL • WebSocket • REST APIs
+- **Features:** Live incident reporting • Volunteer coordination • Real-time chat • Location mapping • Emergency alerts
 
-➡️ **[View Repository](https://github.com/ABMaruf/erms)**
-
----
-
-### Ansar – Desktop AI Assistant
-Intelligent desktop AI assistant capable of **voice interaction, code generation, and multi-modal responses**.  
-**Tech Stack:** Python • Speech Recognition • LLM APIs • GUI Framework  
-**Key Features:**
-- Voice command processing
-- AI-powered code generation
-- Natural language understanding
-- Multi-modal response handling
-- Desktop integration
-
-➡️ **[View Repository](https://github.com/ABMaruf/ansar)**
+🔗 [Repository](https://github.com/ABMaruf/Emergency-Rescue-Management-System-ERMS-) | [More Info](#)
 
 ---
 
 ### Team and Task Management System
-Complete task and team management platform for **project collaboration, task assignment, and progress tracking**.  
-**Tech Stack:** Spring Boot • MySQL • REST APIs • Frontend (HTML/CSS/JavaScript)  
-**Key Features:**
-- Team member management
-- Task assignment and tracking
-- Project organization
-- Real-time status updates
-- Collaboration tools
+Complete project collaboration platform for teams and tasks.
+- **Tech:** Spring Boot • MySQL • REST APIs
+- **Features:** Team management • Task tracking • Project organization • Status updates • Collaboration tools
 
-➡️ **[View Repository](https://github.com/ABMaruf/Team-and-Task-Management-System)**
+🔗 [Repository](https://github.com/ABMaruf/Team-and-Task-Management-System) | [More Info](#)
 
 ---
 
 ### Digital Health Care System
-Comprehensive healthcare management platform for **patient records, appointments, and medical services**.  
-**Tech Stack:** Spring Boot • MySQL • REST APIs • Frontend (HTML/CSS/JavaScript)  
-**Key Features:**
-- Patient record management
-- Doctor appointment scheduling
-- Medical service tracking
-- Health data visualization
-- Prescription management
+Healthcare management platform for patient records and services.
+- **Tech:** Spring Boot • MySQL • REST APIs
+- **Features:** Patient records • Appointment scheduling • Medical tracking • Health visualization • Prescriptions
 
-➡️ **[View Repository](https://github.com/ABMaruf/Digital-Health-Care-System)**
+🔗 [Repository](https://github.com/ABMaruf/Digital-Health-Care-System) | [More Info](#)
 
 ---
 
-## 📈 GitHub Statistics
+### Ansar – Desktop AI Assistant
+Desktop AI assistant with voice interaction and code generation.
+- **Tech:** Python • Speech Recognition • LLM APIs
+- **Features:** Voice commands • AI code generation • Natural language processing • Multi-modal responses
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABMaruf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABMaruf&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABMaruf&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+🔗 [Repository](https://github.com/ABMaruf/ansar) | [More Info](#)
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="mailto:almaruf170600@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABMaruf&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ABMaruf&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMaruf&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 📊 Contribution Graph
+## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABMaruf/ABMaruf/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/ABMaruf/ABMaruf/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning, always building. Let's collaborate!</i>
-</p>
-
-<p align="center">
-  <strong>⭐ Feel free to explore my repositories and reach out for collaborations</strong>
-</p>
+<div align="center">
+  
+  **Building scalable systems. Always learning. Always shipping.**
+  
+  ⭐ Explore my repositories | 📧 Let's collaborate
+  
+</div>
