@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| An enthusiastic Computer Science & Engineering graduate majoring in **Network & Communications**, focused on **Network Engineering, Cybersecurity, and System Design**. I combine a solid foundation in networking protocols with hands-on experience across software, IoT, and telemedicine platforms. Currently pursuing **CCNA** through Cisco NetAcad and expanding my skills in **network security, CRNs, and embedded systems** to grow into a skilled Network & Security professional. | ![Assalamo Alaikum](./assalamo-alaikum.svg) |
+| # Welcome! 👋<br><br>🌙 **Assalamu Alaikum wa Rahmatullahi wa Barakatuh**<br><br>I'm a **Network Engineer** & **Cybersecurity Enthusiast**<br><br>Building scalable systems | Exploring networks | Securing the digital world<br><br>![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat) | ![Coding Vibe](./coding%20vibe.gif) |
 
 ---
 
