@@ -13,7 +13,21 @@
 <table>
 <tr>
 <td><img src="./greetings.gif" width="300" height="250" alt="Greetings"/></td>
-<td><img src="./arabic-greeting.svg" width="400" height="300" alt="Arabic Greeting"/></td>
+<td>
+
+### السلام عليكم
+**Peace be upon you**
+
+---
+
+### Network & Cybersecurity Enthusiast
+
+Building scalable systems • Exploring networks  
+Securing the digital world
+
+![CSE](https://img.shields.io/badge/CSE%20Graduate-Network%20Major-0066CC?style=flat) ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-FF6B6B?style=flat)
+
+</td>
 </tr>
 </table>
 
