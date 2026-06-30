@@ -101,9 +101,13 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 🌍 Languages
 
-- 🇧🇩 **Bengali:** Native
-- 🇬🇧 **English:** Working proficiency
-- 🕌 **Arabic:** Elementary understanding
+<div align="center">
+
+![Bengali](https://img.shields.io/badge/Bengali-Native-00A8CC?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Working%20Proficiency-00A8CC?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Elementary-00A8CC?style=for-the-badge)
+
+</div>
 
 ---
 
