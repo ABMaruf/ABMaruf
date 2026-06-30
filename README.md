@@ -35,25 +35,43 @@ An enthusiastic Computer Science & Engineering graduate majoring in **Network & 
 
 ## 🛡️ Core Competencies
 
+<div align="center">
+
 ### 🔌 Network Engineering & Protocols
-- TCP/IP and OSI models
-- IPv4 addressing and subnetting
-- Routing fundamentals (Static & Default Routes)
-- NAT and ACL configuration
-- VLANs and Port-Channel concepts
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0066CC?style=for-the-badge)
+![OSI Models](https://img.shields.io/badge/OSI%20Models-0066CC?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4-0066CC?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-0066CC?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-0066CC?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-0066CC?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANs-0066CC?style=for-the-badge)
+![Port-Channel](https://img.shields.io/badge/Port--Channel-0066CC?style=for-the-badge)
 
 ### 🔐 Cybersecurity Fundamentals
-- Cryptography fundamentals and challenge–response mechanisms
-- Digital signatures and certificate-based authentication
-- IPsec (Internet Protocol Security)
-- TLS (Transport Layer Security)
+
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge)
+![Digital Signatures](https://img.shields.io/badge/Digital%20Signatures-FF6B6B?style=for-the-badge)
+![IPsec](https://img.shields.io/badge/IPsec-FF6B6B?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS-FF6B6B?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge)
 
 ### 🛠️ Tools & Technologies
-- **Simulation & Networking:** Omnet++, NS2/NS3, Cisco Packet Tracer
-- **Programming:** Java, C, C++, Python
-- **Web & Databases:** SQL, React, Node.js, XAMPP, Firebase
-- **Hardware & IoT:** ESP32, Arduino, line-following robots
-- **Design & Collaboration:** Figma, Canva, Git, MS Word, Excel, PowerPoint
+
+![Omnet++](https://img.shields.io/badge/Omnet%2B%2B-4A90E2?style=for-the-badge)
+![NS2/NS3](https://img.shields.io/badge/NS2%2FNS3-4A90E2?style=for-the-badge)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-4A90E2?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-A8B9CC?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+</div>
 
 ---
 
