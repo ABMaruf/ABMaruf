@@ -6,35 +6,21 @@
 
 ---
 
-## ❤️ About Me
+## 💜 About Me
 
-<div align="center">
+Hi! I'm **AB Maruf**, a Backend Engineer & Network Architect who lives at the crossroads of **scalable systems, cybersecurity, and network engineering**.
 
-**Hi! I'm AB Maruf**, a Backend Engineer & Network Architect who completed my **Bachelor's in CSE**. I specialize in building scalable backend systems, exploring cybersecurity, and designing robust network architectures.
+I love building systems that are **not just functional, but genuinely intelligent and secure**.
 
-I love creating systems that are **not just functional, but genuinely intelligent and secure**.
+🚀 Working on **scalable backend systems & network architectures**  
+🔐 Deep interest in **cybersecurity, penetration testing & network design**  
+📡 Currently exploring **CCNA, GNS3, Cognitive Radio Networks**  
+💻 Talk to me about **Java, Spring Boot, REST APIs, System Design**  
+🌱 Building **production-grade systems** that handle complexity with elegance  
 
-<table>
-<tr>
-<td width="50%">
-
-🎓 **CSE Graduate** — Network Major  
-🚀 **Backend Systems** — Spring Boot, REST APIs, WebSockets  
-🔐 **Security First** — Cybersecurity & Network Engineering  
-📡 **Network Architecture** — CCNA, GNS3, Cognitive Radio Networks  
-💻 **Full-Stack Capable** — Java, Python, JavaScript  
-🌱 **Always Learning** — AI/ML, Data Structures, System Design
-
-</td>
-<td width="50%">
-
-![Developer](./profile.gif)
-
-</td>
-</tr>
-</table>
-
-</div>
+| | |
+|---|---|
+| | ![Developer](./profile.gif) |
 
 ---
 
