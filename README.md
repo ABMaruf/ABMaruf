@@ -39,7 +39,7 @@ Securing the digital world
 
 | | |
 |---|---|
-| - 🌐 **Network Engineering** • **Cybersecurity** • **System Reliability**<br><br>- 🧪 **Embedded Systems** • **Full-Stack Development** • **Telemedicine** • **API Testing**<br><br>- 📚 **CCNA** (In Progress) • **Cisco Cybersecurity** (Certified)<br><br>- 🔍 **Omnet++** • **NS3** • **Packet Tracer** • Research & Simulations | ![Developer](./profile.gif) |
+| - 🌐 **Network Engineering** • **Cybersecurity** • **System Reliability** • **Network Security & Defense** • **Cognitive Radio Networks** • **IoT & Embedded Systems**<br><br>- 🧪 **Embedded Systems** • **Full-Stack Development** • **Telemedicine** • **API Testing**<br><br>- 📚 **CCNA** (In Progress) • **Cisco Cybersecurity** (Certified)<br><br>- 🔍 **Omnet++** • **NS3** • **Packet Tracer** • **Research & Simulations** | ![Developer](./profile.gif) |
 
 ---
 
