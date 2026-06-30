@@ -91,6 +91,16 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABMaruf&theme=tokyonight)
+
+</div>
+
+---
+
 <div align="center">
 
 **Building scalable systems. Always learning. Always shipping.** 🚀
