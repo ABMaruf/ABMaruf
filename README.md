@@ -28,7 +28,7 @@ I love creating systems that are **not just functional, but genuinely intelligen
 </td>
 <td width="50%">
 
-![Developer](https://img.icons8.com/color/384/000000/backend-development.png)
+![Developer](./profile.svg)
 
 </td>
 </tr>

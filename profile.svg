@@ -1,0 +1,48 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="gearGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a7a8c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a6a7c;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .gear { animation: rotate 20s linear infinite; transform-origin: 200px 200px; }
+    </style>
+  </defs>
+
+  <!-- Gear -->
+  <g class="gear">
+    <!-- Main gear body -->
+    <circle cx="200" cy="200" r="120" fill="url(#gearGradient)"/>
+
+    <!-- Gear teeth top/bottom -->
+    <rect x="190" y="60" width="20" height="40" fill="url(#gearGradient)" rx="4"/>
+    <rect x="190" y="300" width="20" height="40" fill="url(#gearGradient)" rx="4"/>
+
+    <!-- Gear teeth left/right -->
+    <rect x="60" y="190" width="40" height="20" fill="url(#gearGradient)" rx="4"/>
+    <rect x="300" y="190" width="40" height="20" fill="url(#gearGradient)" rx="4"/>
+
+    <!-- Diagonal teeth -->
+    <g transform="translate(200, 200) rotate(45)">
+      <rect x="-10" y="-140" width="20" height="40" fill="url(#gearGradient)" rx="4"/>
+      <rect x="-10" y="100" width="20" height="40" fill="url(#gearGradient)" rx="4"/>
+      <rect x="-140" y="-10" width="40" height="20" fill="url(#gearGradient)" rx="4"/>
+      <rect x="100" y="-10" width="40" height="20" fill="url(#gearGradient)" rx="4"/>
+    </g>
+
+    <!-- Center circle -->
+    <circle cx="200" cy="200" r="60" fill="white" opacity="0.95"/>
+
+    <!-- Code brackets symbol in center -->
+    <g transform="translate(200, 200)">
+      <!-- Left bracket < -->
+      <path d="M -30 -35 L -45 0 L -30 35" stroke="url(#gearGradient)" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- Right bracket / -->
+      <path d="M 0 -45 L 45 45" stroke="url(#gearGradient)" stroke-width="7" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
