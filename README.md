@@ -126,6 +126,34 @@ Intelligent desktop AI assistant capable of **voice interaction, code generation
 
 ---
 
+### Team and Task Management System
+Complete task and team management platform for **project collaboration, task assignment, and progress tracking**.  
+**Tech Stack:** Spring Boot • MySQL • REST APIs • Frontend (HTML/CSS/JavaScript)  
+**Key Features:**
+- Team member management
+- Task assignment and tracking
+- Project organization
+- Real-time status updates
+- Collaboration tools
+
+➡️ **[View Repository](https://github.com/ABMaruf/Team-and-Task-Management-System)**
+
+---
+
+### Digital Health Care System
+Comprehensive healthcare management platform for **patient records, appointments, and medical services**.  
+**Tech Stack:** Spring Boot • MySQL • REST APIs • Frontend (HTML/CSS/JavaScript)  
+**Key Features:**
+- Patient record management
+- Doctor appointment scheduling
+- Medical service tracking
+- Health data visualization
+- Prescription management
+
+➡️ **[View Repository](https://github.com/ABMaruf/Digital-Health-Care-System)**
+
+---
+
 ## 📈 GitHub Statistics
 
 <p align="center">
