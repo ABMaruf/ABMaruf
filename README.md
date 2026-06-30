@@ -8,19 +8,9 @@
 
 ## 💜 About Me
 
-Hi! I'm **AB Maruf**, a Backend Engineer & Network Architect who lives at the crossroads of **scalable systems, cybersecurity, and network engineering**.
-
-I love building systems that are **not just functional, but genuinely intelligent and secure**.
-
-🚀 Working on **scalable backend systems & network architectures**  
-🔐 Deep interest in **cybersecurity, penetration testing & network design**  
-📡 Currently exploring **CCNA, GNS3, Cognitive Radio Networks**  
-💻 Talk to me about **Java, Spring Boot, REST APIs, System Design**  
-🌱 Building **production-grade systems** that handle complexity with elegance  
-
 | | |
 |---|---|
-| | ![Developer](./profile.gif) |
+| Hi! I'm **AB Maruf**, a Backend Engineer & Network Architect who lives at the crossroads of **scalable systems, cybersecurity, and network engineering**.<br><br>I love building systems that are **not just functional, but genuinely intelligent and secure**.<br><br>🚀 Working on **scalable backend systems & network architectures**<br>🔐 Deep interest in **cybersecurity, penetration testing & network design**<br>📡 Currently exploring **CCNA, GNS3, Cognitive Radio Networks**<br>💻 Talk to me about **Java, Spring Boot, REST APIs, System Design**<br>🌱 Building **production-grade systems** that handle complexity with elegance | ![Developer](./profile.gif) |
 
 ---
 
