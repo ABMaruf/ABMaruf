@@ -190,8 +190,6 @@ Designing a **trust computation and certificate-based authentication framework**
 
 <div align="center">
 
-![Made by AB Maruf](./footer.svg)
-
-**Building scalable systems. Always learning. Always shipping.** 🚀
+![Made by AB Maruf](./footer2.gif)
 
 </div>
