@@ -8,7 +8,9 @@
 
 ## 👋 Assalamu Alaikum, I'm Abdullah Al Maruf
 
-An enthusiastic Computer Science & Engineering graduate majoring in **Network & Communications**, focused on **Network Engineering, Cybersecurity, and System Design**. I combine a solid foundation in networking protocols with hands-on experience across software, IoT, and telemedicine platforms. Currently pursuing **CCNA** through Cisco NetAcad and expanding my skills in **network security, CRNs, and embedded systems** to grow into a skilled Network & Security professional.
+| | |
+|---|---|
+| An enthusiastic Computer Science & Engineering graduate majoring in **Network & Communications**, focused on **Network Engineering, Cybersecurity, and System Design**. I combine a solid foundation in networking protocols with hands-on experience across software, IoT, and telemedicine platforms. Currently pursuing **CCNA** through Cisco NetAcad and expanding my skills in **network security, CRNs, and embedded systems** to grow into a skilled Network & Security professional. | ![Assalamo Alaikum](./Hand%20drawn%20salam.svg) |
 
 ---
 
